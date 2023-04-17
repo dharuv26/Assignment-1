@@ -1,0 +1,31 @@
+
+.bd{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.b{
+    font-size: large;
+    text-align: justify;
+    margin-right: 5%
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+label{
+    color: blue;
+    padding: 10;
+}
+body{
+    margin-left: 5%;
+}
+button{
+    color: blue;
+}
+h2{
+    color: red;
+    text-align: center;
+}
